@@ -2,6 +2,7 @@
   "accentColor": "",
   "interfaceFontFamily": "",
   "textFontFamily": "Inter",
-  "theme": "moonstone",
-  "baseFontSize": 15
+  "theme": "obsidian",
+  "baseFontSize": 15,
+  "cssTheme": ""
 }
