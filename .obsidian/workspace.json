@@ -11,11 +11,48 @@
             "id": "73bc6ad0e789be9c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы и структуры данных/Структуры данных/Массив.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e457a68099d6eab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы и структуры данных/Структуры данных/Деревья/Дерево.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a8d9368a1c2054bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Алгоритмы и структуры данных/Структуры данных/Деревья/Двоичная куча.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12e06a7544594601",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,20 +168,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Создать новый холст": false,
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73bc6ad0e789be9c",
+  "active": "12e06a7544594601",
   "lastOpenFiles": [
-    "Алгоритмы и структуры данных/Структуры данных/Массив.md",
-    "Алгоритмы и структуры данных/Алгоритм.md",
+    "Алгоритмы и структуры данных/Структуры данных/Деревья/Двоичная куча.md",
+    "Алгоритмы и структуры данных/Структуры данных/Деревья/Дерево.md",
     "Алгоритмы и структуры данных/Структура данных.md",
+    "Cтруктура данных.md",
+    "Алгоритмы и структуры данных/Структуры данных/Массив.md",
+    "Сторонние файлы/Картинки/Pasted image 20230228160141.png",
+    "Сторонние файлы/Картинки/Pasted image 20230228155820.png",
+    "Сторонние файлы/Картинки/Pasted image 20230228155150.png",
+    "Сторонние файлы/Картинки",
+    "Сторонние файлы",
+    "Сторонние файлы/Картинки/Pasted image 20230228155036.png",
+    "Алгоритмы и структуры данных/Структуры данных/Деревья",
+    "Алгоритмы и структуры данных/Алгоритм.md",
     "Математическая логика/Машина Тьюринга.md",
     "Untitled.md",
     "Алгоритмы и структуры данных..md",
