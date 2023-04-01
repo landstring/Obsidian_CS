@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Алгоритмы и структуры данных/Структуры данных/Динамические структуры данных/Деревья/AVL Дерево.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -151,12 +151,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
