@@ -45,6 +45,8 @@ $$log_{\varphi}n \ge h$$
 ***Реализация***
 
 ```C
+using namespace std;
+
 template <typename T>
 struct node {
     T inf;
@@ -193,14 +195,14 @@ private:
     node<T>* balance(node<T>* p) {
         p->height = max(getHeight(p->left), getHeight(p->right)) + 1;
         if (balance_factor(p) == -2) {
-            if (balance_factor(p->left) == 1) {
+            if (balance_factor(p->right) == 1) {
                 p->right = rotateRight(p->right);
             }
             return rotateLeft(p);
         }
         if (balance_factor(p) == 2) {
             if (balance_factor(p->left) == -1) {
-                p->right = rotateLeft(p->left);
+                p->left = rotateLeft(p->left);
             }
             return rotateRight(p);
         }
@@ -210,8 +212,8 @@ private:
 
     void inorderHelp(node<T>* p) {
         if (p) {
-            inorderHelp(p->left);
             cout << p->inf << ' ';
+            inorderHelp(p->left);
             inorderHelp(p->right);
         }
     }
